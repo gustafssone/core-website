@@ -1,7 +1,7 @@
 # Hello Engine
 
 Get started by running the Qlik Associative Engine in a Docker container on your local machine and
-communicating with it using [enigma.js](https://github.com/qlik-oss/enigma.js).
+communicating with it using [enigma.js](https://github.com/qlik-oss/enigma.js). Note that it is a Linux container and will not run in a Windows-run docker-environment.
 
 ## Prerequisites
 
